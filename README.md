@@ -7,7 +7,7 @@
     NPM: 6.9.0
 
 # Step 1: Clone the app.
-    $ git clone https://github.com/preethamntp/home-eatery.git
+    $ git clone https://github.com/preethamntp/sezzle.git
     $ cd home-eatery
     $ yarn
     $ yarn start
