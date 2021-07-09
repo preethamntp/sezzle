@@ -8,7 +8,7 @@
 
 # Step 1: Clone the app.
     $ git clone https://github.com/preethamntp/sezzle.git
-    $ cd home-eatery
+    $ cd Sezzle
     $ yarn
     $ yarn start
 
