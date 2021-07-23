@@ -15,3 +15,6 @@
 
 # Step 2: Modify 
     modify availableDishes in data.json to understand the filter better
+
+ # Added Server.js
+    run using node server.js

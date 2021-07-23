@@ -94,7 +94,7 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 80%;
+  height: 100%;
 }
 .product img {
   max-width: 37rem;
@@ -239,9 +239,7 @@ input {
   z-index: 1000;
 }
 
-.success-message {
-  color: green;
-}
+/* order Details */
 
 .order-details {
   display: flex;
@@ -250,10 +248,22 @@ input {
   align-items: center;
   height: 100%;
 }
+
 .order-details li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 3rem;
-  width: 40rem;
+}
+
+.order-details li div {
+  padding: 10px;
+}
+
+.order-details .items {
+  text-align: right;
+  padding: 0%;
+}
+
+.success-message {
+  color: green;
 }
